@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAppNorthwind", "WindowsAppNorthwind\WindowsAppNorthwind.csproj", "{2A89271B-16DE-431A-9DDC-B86706E48E77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAppPubs", "WindowsAppPubs\WindowsAppPubs.csproj", "{F4C53BC6-19FC-48D7-B104-C012B74FB9CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A89271B-16DE-431A-9DDC-B86706E48E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A89271B-16DE-431A-9DDC-B86706E48E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A89271B-16DE-431A-9DDC-B86706E48E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A89271B-16DE-431A-9DDC-B86706E48E77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4C53BC6-19FC-48D7-B104-C012B74FB9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C53BC6-19FC-48D7-B104-C012B74FB9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C53BC6-19FC-48D7-B104-C012B74FB9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C53BC6-19FC-48D7-B104-C012B74FB9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0A07863-CEE6-4DC7-A0A3-4FD2DDC5CD1F}
+	EndGlobalSection
+EndGlobal
