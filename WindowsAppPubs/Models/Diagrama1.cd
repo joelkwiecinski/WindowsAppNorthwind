@@ -47,10 +47,6 @@
       <HashCode>AAAAAMAAQAAAAAAAAAAICAAAAAAAQAAGAAAAAAAAAAA=</HashCode>
       <FileName>Models\Publisher.cs</FileName>
     </TypeIdentifier>
-    <ShowAsCollectionAssociation>
-      <Property Name="employees" />
-      <Property Name="titles" />
-    </ShowAsCollectionAssociation>
   </Class>
   <Class Name="WindowsAppPubs.Models.Roysched">
     <Position X="11.5" Y="5.75" Width="1.5" />
